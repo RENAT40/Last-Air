@@ -1,5 +1,5 @@
 ![Título](https://cdn.discordapp.com/attachments/1325502427193016382/1333053537634095165/last_air_bolhas.gif?ex=6798271a&is=6796d59a&hm=f375e280e291cf3f2553d816de009b0ab2494ff5c38e46a9f461db80fd882255&)
-<img src="https://cdn.discordapp.com/attachments/1325502427193016382/1333053537634095165/last_air_bolhas.gif?ex=6798271a&is=6796d59a&hm=f375e280e291cf3f2553d816de009b0ab2494ff5c38e46a9f461db80fd882255&" alt="Texto alternativo" largura="300" altura="200">
+<img src="https://cdn.discordapp.com/attachments/1325502427193016382/1333053537634095165/last_air_bolhas.gif?ex=6798271a&is=6796d59a&hm=f375e280e291cf3f2553d816de009b0ab2494ff5c38e46a9f461db80fd882255&" alt="Texto alternativo" largura="400" altura="200">
  
 Last Air é um jogo emocionante e desafiador em 2D, criado no estilo pixel art no Game Maker. Nele, você assume o controle de uma bolha de ar especial, conhecida como o "último suspiro" de um pirata afogado. Sua missão é simples, mas cheia de perigos: levar essa bolha até a superfície do mar, garantindo que ela escape da profundidade sombria para alcançar a liberdade.
  
