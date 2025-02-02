@@ -10,3 +10,5 @@ Last Air é um jogo emocionante e desafiador em 2D, criado no estilo pixel art n
 No caminho, você precisará desviar de diversos inimigos – peixes perigosos que tentarão estourar a bolha a qualquer custo. A cada movimento, o jogador deve combinar precisão e estratégia para superar obstáculos e escapar ileso das criaturas do fundo do mar.
 
 ![Título](https://cdn.discordapp.com/attachments/718902585108463699/1333562894352125952/baiacu_github.gif?ex=679958ba&is=6798073a&hm=f940702ea0d805d22c3428928efc40c06e1fd8bb64ca65ae6d575029477075b0&)
+
+![Título](https://cdn.discordapp.com/attachments/726069136136077335/1334330040242016306/splash.png?ex=67a0c070&is=679f6ef0&hm=6443301c326196703007a671ed82247e372455c51fd1c07bf8113e1756b10a9b&)
